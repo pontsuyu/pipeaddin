@@ -3,7 +3,7 @@ Type: Package
 Title: add %>>%
 Version: 1.0.0
 Author: c(
-    person("Hiroyuki", "Tsuyuzaki", email="tsuyuzaki@macromill.com", role="cre")
+    person("Hiroyuki", "Tsuyuzaki", email="wu.pe.s2.47@gmail.com", role="cre")
     )
 Description: add %>>%
 License: MIT
